@@ -17,6 +17,9 @@ Agora, na versão 2.0, essa manipulação da senha é dada por um controle ifrav
 **OBS:** As senhas se iniciam por padrão como 0000 -> Ativar e 1111 -> Desativar.
 
 **Links Tinkercad:**
+
 1.0 : https://www.tinkercad.com/things/lalh3wmbrUC
 
 2.0 : https://www.tinkercad.com/things/j55ya7mvowF
+
+**Links da minha aula no YT:** https://youtu.be/ZKq9rzhbJcU
