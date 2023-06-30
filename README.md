@@ -8,6 +8,8 @@ Em ambas versões a intenção é a mesma, criar um alare que possui um sensor d
 
 Na versão 1.0 a mesma é manipulada através de um painel com 5 chaves e dois botões. 4 das 5 chaves representam um código binário que será usado como senha; um dos botões representa a ação de confirmar a senha digitada;  o outro botão em conjunto da 5° chave configura a mudança de senha. Essa configuração de senha se da de uma maneira que se a chave estiver com valor 0, ao pressionar o botão de senha o código binario vigente é a nova senha de desativar o alarme e a chave com valor 1, torna o código a nova maneira de ativar o alarme. Com as senhas configuradas, ao digitar o código de ativação e pressionar o botão ação, o sistema é ligado e possui as caracteristicas descritas acima, somente será desativado ao digitar a senha correta de desativação e pressionar o botão de ação.
 
+<img src = "https://github.com/RFHamster/Projeto-Alarme/issues/1#issue-1783165385">
+
 Agora, na versão 2.0, essa manipulação da senha é dada por um controle ifravermelho, ele possui um botão de ação igual o outro projeto (botão Power), que deve ser utilizado antes de digitar senha de 4 números. Para a configuração da senha utiliza-se os botoes VOL+ e FUNC/STOP, para mudar a senha de destivar e ativar, respectivamente.
 
 **OBS:** As senhas se iniciam por padrão como 0000 -> Ativar e 1111 -> Desativar.
